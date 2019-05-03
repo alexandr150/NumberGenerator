@@ -12,7 +12,7 @@ Response example:
 
 *retrieve(id)* - takes as parameter a number's id, returns the value of the found number  in JSON format.
 
-Usage example: http://127.0.0.1:8000/retrieve/12
+Usage example: http://127.0.0.1:8000/retrieve/18
 
 Response example: 
 
